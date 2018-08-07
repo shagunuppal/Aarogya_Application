@@ -4,6 +4,8 @@ This is an application (web and android) designed for providing basic health fac
 
 These applications uses HYPERTRACK API to make heat maps depicting what diseases are prevalent in an area. This can be used for govt. officials for tracking any epidemic and taking relevant steps and can also be useful for speading awareness and preventing people from catching deadly diseases.
 
+<center> <img src = "logo.jpg" height = "400" width = "200" /> </center>
+
 ## Requirements: 
 1. Python (2/3)
 2. Flask
